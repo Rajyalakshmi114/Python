@@ -21,3 +21,13 @@ if operation == "add":
    print(output)
 
 
+if operation == "sub":
+   output = sub(num1 , num2)
+   print(output)
+
+
+if operation == "mul":
+   output = mul(num1 , num2)
+   print(output)
+
+
