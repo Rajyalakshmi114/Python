@@ -29,5 +29,3 @@ if operation == "sub":
 if operation == "mul":
    output = mul(num1 , num2)
    print(output)
-
-
